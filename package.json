@@ -1,0 +1,12 @@
+{
+  "name": "typing_tutor",
+  "version": "0.1.0",
+  "description": "Typing Tutor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.8.2"
+  }
+}
